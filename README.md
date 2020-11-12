@@ -1,15 +1,17 @@
+## Hi, Pablo Emídio here!
 
-`pablo@github:~#` _pronouns /he/him_
 
-`pablo@github:~#` _learning /python/html-css/js_
+##### `pablo@github:~#` _pronouns /he/him_
 
-`pablo@github:~#` _os /linux_
+##### `pablo@github:~#` _learning /python/html-css/js_
 
-`pablo@github:~#` _echo "pt_BR.UTF-8 UTF-8" > locale.gen && locale-gen_
+##### `pablo@github:~#` _os /linux_
 
-`pablo@github:~#` _echo "LANG=en_US.UTF-8" >> locale.gen
+##### `pablo@github:~#` _echo "pt_BR.UTF-8 UTF-8" > locale.gen && locale-gen_
 
-`pablo@github:~#` _echo "I want to help this tecnological world that is changing world" > about.me_
+##### `pablo@github:~#` _echo "LANG=en_US.UTF-8" >> locale.gen
+
+##### `pablo@github:~#` _echo "I want to help this tecnological world that is changing world" > about.me_
 
 
 
