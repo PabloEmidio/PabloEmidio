@@ -9,10 +9,20 @@
 
 ##### `pablo@github:~#` _echo "pt_BR.UTF-8 UTF-8" > locale.gen && locale-gen_
 
-##### `pablo@github:~#` _echo "LANG=en_US.UTF-8" >> locale.gen
+##### `pablo@github:~#` _echo "LANG=en_US.UTF-8" >> locale.gen_
 
 ##### `pablo@github:~#` _echo "I want to help this tecnological world that is changing world" > about.me_
+##### `pablo@github:~#` _head about.me_
 
+
+
+            Hi there, I´m Pablo  Emdio
+              and I love to learn about everything and use what I learned
+                I study from technology to behavioral psychology and businness
+                  I wanna be a programming and hacking but not just it
+                    This is a little about me
+                      
+                        
 
 
 <!--
