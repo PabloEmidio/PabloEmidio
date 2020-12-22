@@ -11,7 +11,7 @@
 
 ##### `pablo@github:~#` _echo "LANG=en_US.UTF-8" >> /etc/locale.gen_
 
-##### `pablo@github:~#` _echo "I want to help this tecnological world that is changing world" > about.me_
+##### `pablo@github:~#` _echo "I want to help this tecnological world that is changing world" >> about.me_
 ##### `pablo@github:~#` _head -5 about.me_
 
 
