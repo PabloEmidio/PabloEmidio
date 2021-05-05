@@ -21,7 +21,7 @@
             Hi there, I´m Pablo  Emídio
               and I love to learn about everything and use what I learned
                 I study from technology to behavioral psychology and businness
-                  I wanna be a programming and hacking but not just it
+                  I want to be a programming and hacking but not just it
                     This is a little about me
                   
 ---
