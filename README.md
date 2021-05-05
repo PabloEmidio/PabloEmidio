@@ -5,7 +5,7 @@
 
 ##### `pablo@github:~#` _program --language Python --focus-in web_scraping_
 
-##### `pablo@github:~#` _learning /html5-css3/js_
+##### `pablo@github:~#` _learning /html5 /css3/sass/scss /js /docker_
 
 ##### `pablo@github:~#` _export OS=$(uname -o)_
 
