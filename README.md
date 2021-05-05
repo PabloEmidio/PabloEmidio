@@ -1,11 +1,13 @@
-## Hi, Pablo Emídio here!
+## Hi, Pablo Emídio here! 
 
 
 ##### `pablo@github:~#` _pronouns /he/him_
 
-##### `pablo@github:~#` _learning /python/html-css/js_
+##### `pablo@github:~#` _program --language Python --focus-in web_scraping_
 
-##### `pablo@github:~#` _os /linux_
+##### `pablo@github:~#` _learning /html5-css3/js_
+
+##### `pablo@github:~#` _export OS=$(uname -o)_
 
 ##### `pablo@github:~#` _echo "pt_BR.UTF-8 UTF-8" > /etc/locale.gen && locale-gen_
 
@@ -22,27 +24,6 @@
                   I wanna be a programming and hacking but not just it
                     This is a little about me
                   
-
-
-<!--
-```
-- I´m Pablo Emídio
-- Prounouns: He | Him
-- Learning: Python | Js | Hacking
-- OS: Linux
-- Want: help this technological world that is changing the world
-```
-
-**PabloEmidio/PabloEmidio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<a href="https://github.com/PabloEmidio"><img src="https://github-readme-stats.vercel.app/api?username=pabloemidio&show_icons=true&theme=radical"></a>
+<a href="https://github.com/PabloEmidio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloemidio&layout=compact&theme=radical"></a>
