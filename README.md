@@ -3,17 +3,17 @@
 ## Hi, Pablo Emídio here! 
 
 
-##### `pablo@github:~#` _pronouns /he/him_
+##### `pablo@github:~#` _me --pronouns /he/him --focus-in backend fullstack_
 
-##### `pablo@github:~#` _program --language Python --focus-in web_scraping_
+##### `pablo@github:~#` _knows --languages /python/python3 /js/javascript --techs /docker/docker /git /linux/shell /sql/sqlite3_
 
-##### `pablo@github:~#` _learning /html5 /css3/sass/scss /js /docker_
+##### `pablo@github:~#` _almost-knows --languages /linux/shellscript --frameworks /python/flask --techs /sql/postgresql /css3/sass/scss_
+
+##### `pablo@github:~#` _learning /python/django /js/node /js/react /css3/bootstrap /sql/mysql_
 
 ##### `pablo@github:~#` _export OS=$(uname -o)_
 
-##### `pablo@github:~#` _echo "pt_BR.UTF-8 UTF-8" > /etc/locale.gen && locale-gen_
-
-##### `pablo@github:~#` _echo "LANG=en_US.UTF-8" >> /etc/locale.gen_
+##### `pablo@github:~#` _echo -e "LANG=pt_BR.UTF-8 UTF-8\nLANG=en_US.UTF-8" > /etc/locale.gen && locale-gen_
 
 ##### `pablo@github:~#` _cat my_info/Contact_
 <p align="center">
