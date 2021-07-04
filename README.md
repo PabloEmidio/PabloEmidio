@@ -5,11 +5,13 @@
 
 ##### `pablo@github:~#` _me --pronouns /he/him --focus-in backend fullstack_
 
-##### `pablo@github:~#` _knows --languages /python/python3 /js/javascript --techs /docker /git /linux/shell /sql/sqlite3_
+##### `pablo@github:~#` _knows --languages /python/python3 /js/javascript --techs /docker /git /linux/shell /nosql/mongodb_
 
-##### `pablo@github:~#` _almost-knows --languages /linux/shellscript --frameworks /python/flask --techs /sql/postgresql /css3/sass/scss_
+##### `pablo@github:~#` _almost-knows --languages /linux/shellscript --frameworks /python/django --techs /sql/postgresql_
 
-##### `pablo@github:~#` _learning --frameworks /python/django /js/node /js/react /css3/bootstrap --techs /sql/mysql_
+##### `pablo@github:~#` _learning --frameworks /python/flask --techs /sql/mysql /css3/sass/scss_
+
+##### `pablo@github:~#` _gonna-learn --frameworks /js/node /js/react /css3/bootstrap --techs /git/gitflow_
 
 ##### `pablo@github:~#` _export OS=$(uname -o)_
 
