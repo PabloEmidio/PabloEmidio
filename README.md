@@ -9,9 +9,9 @@
 
 ##### `pablo@github:~#` _almost-knows --languages /linux/shellscript --frameworks /python/django /python/flask --techs /sql/postgresql_
 
-##### `pablo@github:~#` _learning --techs /python/nameko --others-skills /leadership_
+##### `pablo@github:~#` _learning --languages /C --techs /python/nameko --others-skills /leadership_
 
-##### `pablo@github:~#` _gonna-learn --languages /C /C++ --techs /git/gitflow /ci/cd_
+##### `pablo@github:~#` _gonna-learn --languages /C++ --techs /git/gitflow /ci/cd_
 
 ##### `pablo@github:~#` _export OS=$(uname -o)_
 
