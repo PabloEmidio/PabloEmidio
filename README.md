@@ -36,8 +36,10 @@
 ##### `pablo@github:~#` _cat my_info/skills_
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <!---
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+   -->
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,11 +62,11 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">   
    </p>
 
-
+<!---
 ##### `pablo@github:~#` _cat my_info/Github_activity_
 <a href="https://github.com/PabloEmidio"><img src="https://github-readme-stats.vercel.app/api?username=pabloemidio&layout=compact&show_icons=true&theme=radical&hide_title=true&hide_border=true"></a>
 <a href="https://github.com/PabloEmidio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloemidio&layout=compact&theme=radical&langs_count=10&hide_border=true"></a>
-
+-->
 ##### `pablo@github:~#` _echo "I want to help this tecnological world that is changing world" >> my_info/about.me_
 
 ##### `pablo@github:~#` _head -5 my_info/about.me_
