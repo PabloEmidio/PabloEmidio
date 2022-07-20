@@ -5,13 +5,15 @@
 
 ##### `pablo@github:~#` _me --pronouns /he/him --focus-in backend_
 
-##### `pablo@github:~#` _knows --languages /python/python3 --techs /docker /git /linux/shell /nosql/mongodb /nosql/redis /sql/mysql_
+##### `pablo@github:~#` _knows --languages /python/python3 \\_
+##### > _--frameworks /python/flask \\_
+##### > _-techs /docker /git /linux/shell /nosql/mongodb /nosql/redis /sql/mysql_
 
-##### `pablo@github:~#` _almost-knows --languages /linux/shellscript --frameworks /python/django /python/flask --techs /sql/postgresql_
+##### `pablo@github:~#` _almost-knows --languages /linux/shellscript /python/nameko --frameworks --techs /sql/postgresql_
 
-##### `pablo@github:~#` _learning --languages /C --techs /python/nameko --others-skills /leadership_
+##### `pablo@github:~#` _learning --languages /C /go --techs /git/gitflow --others-skills /leadership_
 
-##### `pablo@github:~#` _gonna-learn --languages /C++ --techs /git/gitflow /ci/cd_
+##### `pablo@github:~#` _gonna-learn --languages /C++ --techs /ci/cd_
 
 ##### `pablo@github:~#` _export OS=$(uname -o)_
 
@@ -62,11 +64,11 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">   
    </p>
 
-<!---
+
 ##### `pablo@github:~#` _cat my_info/Github_activity_
 <a href="https://github.com/PabloEmidio"><img src="https://github-readme-stats.vercel.app/api?username=pabloemidio&layout=compact&show_icons=true&theme=radical&hide_title=true&hide_border=true"></a>
 <a href="https://github.com/PabloEmidio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloemidio&layout=compact&theme=radical&langs_count=10&hide_border=true"></a>
--->
+
 ##### `pablo@github:~#` _echo "I want to help this tecnological world that is changing world" >> my_info/about.me_
 
 ##### `pablo@github:~#` _head -5 my_info/about.me_
